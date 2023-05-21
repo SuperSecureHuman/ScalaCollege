@@ -1,9 +1,9 @@
 package worksheet_1
 
-object SumSmallestArray {
+object SmallestValues {
 
   def main(args: Array[String]): Unit = {
-    var test = Array(1, 2, 7, 2, 8, 3, 6, 8, 9)
+    val test = Array(1, 2, 7, 2, 8, 3, 6, 8, 9)
 
     var Smallest = Int.MaxValue
     var SecondSmallest = Int.MaxValue
