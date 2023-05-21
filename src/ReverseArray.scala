@@ -1,5 +1,3 @@
-package worksheet_1
-
 object ReverseArray {
 
   def main(args: Array[String]): Unit = {

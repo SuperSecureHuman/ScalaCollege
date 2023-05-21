@@ -1,5 +1,3 @@
-package worksheet_1
-
 object SumPrimeEven {
 
   def checkPrime(a:Int) : Boolean = {

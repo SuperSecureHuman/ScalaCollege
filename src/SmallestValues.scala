@@ -1,5 +1,3 @@
-package worksheet_1
-
 object SmallestValues {
 
   def main(args: Array[String]): Unit = {

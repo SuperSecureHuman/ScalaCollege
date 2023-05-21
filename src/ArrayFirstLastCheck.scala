@@ -1,5 +1,3 @@
-package worksheet_1
-
 import scala.Array
 
 object ArrayFirstLastCheck {
